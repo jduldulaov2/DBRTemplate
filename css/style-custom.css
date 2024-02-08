@@ -1,0 +1,44 @@
+.logo-custom{
+  width:100%!important;
+}
+
+.add-claimant{
+  width: 100%!important; padding: 10px!important;
+}
+
+.add-claimant .claim-1{
+  float:left;width:70%; padding-top: 5px; text-align: right;
+}
+
+.add-claimant .claim-2{
+  float:right;width:30%; text-align: left;
+}
+
+.delete-btn{
+  font-size: 2.25rem!important;
+}
+
+.card .card-title{
+  font-size: 21px!important;
+}
+
+.custom-dropdown{
+  height:45px!important;
+}
+
+.claimant-summary{
+  padding: 15px;
+}
+
+.dataTables_wrapper .dataTable .btn{
+  padding:0px!important;
+}
+
+.row-image-custom{
+  padding: 8px!important;
+}
+
+.login-half-bg{
+  background: url(../images/login-background.jpeg)!important;
+    background-size: cover!important;
+}
